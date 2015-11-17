@@ -1,0 +1,20 @@
+{
+  "name": "TodoApp",
+  "version": "0.1.0",
+  "description": "A MEAN stack Todo App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Sohal",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "ejs": "~2.3.4",
+    "debug": "~2.2.0",
+    "cookie-parser": "~1.4.0",
+    "morgan": "~1.6.1",
+    "body-parser": "~1.14.1",
+    "express": "~4.13.3",
+    "mongojs": "~1.4.1"
+  }
+}
